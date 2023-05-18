@@ -6,3 +6,5 @@ Here, I document the progress I have made in following the PyTorch tutorials in 
 PyTorch00: Learning the basic operations and data structures of PyTorch.
 
 PyTorch01: Developing a pipeline for a simple linear regression model, writing a training loop and evaluating model performance.
+
+PyTorch02: Developing a model for binary and multi-class activation and using non-linear activation functions to improve accuracy.
